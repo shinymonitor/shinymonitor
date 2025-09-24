@@ -23,7 +23,7 @@ I design and build performant, reliable, and novel software. My focus is on crea
 
 ---
 
-### Flagship projects
+### Projects
 
 <table>
   <tr>
@@ -74,11 +74,31 @@ I design and build performant, reliable, and novel software. My focus is on crea
       A lightweight project manager for C projects, featuring intuitive C-based build recipes and incremental compilation.
     </td>
   </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://github.com/shinymonitor/no-heap-rsa-zig">
+        <img src="https://raw.githubusercontent.com/shinymonitor/no-heap-rsa-zig/main/assets/LOGO.png" width="100">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/shinymonitor/no-heap-rsa-zig"><strong>Heapless RSA</strong></a>
+      <br />
+      A performant single-file, heap-less implementation of RSA encryption and signatures in Zig with OAEP+ padding and PEM key storage.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://github.com/shinymonitor/fast3sat">
+        <img src="https://raw.githubusercontent.com/shinymonitor/fast3sat/main/assets/LOGO.png" width="100">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/shinymonitor/fast3sat"><strong>FAST3SAT</strong></a>
+      <br />
+      A fast, deterministic greedy solver for a subset of 3SAT problems.
+    </td>
+  </tr>
 </table>
-
-### Other notable projects
-*   <a href="https://github.com/shinymonitor/no-heap-rsa-zig"><strong>Heap-less RSA (Zig)</strong></a> - A performant single-file, zero-allocation implementation of RSA encryption and signatures.
-*   <a href="https://github.com/shinymonitor/fast3sat"><strong>FAST3SAT</strong></a> - A fast, deterministic greedy solver for a subset of 3SAT problems.
 
 ---
 
