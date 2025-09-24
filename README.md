@@ -52,14 +52,14 @@ I design and build performant, reliable, and novel software. My focus is on crea
   </tr>
   <tr>
     <td align="center" width="150">
-      <a href="https://github.com/shinymonitor/cazpyr">
-        <img src="https://raw.githubusercontent.com/shinymonitor/cazpyr/main/assets/LOGO.gif" width="100">
+      <a href="https://github.com/shinymonitor/no-heap-rsa-zig">
+        <img src="https://raw.githubusercontent.com/shinymonitor/no-heap-rsa-zig/main/assets/LOGO.png" width="100">
       </a>
     </td>
     <td>
-      <a href="https://github.com/shinymonitor/cazpyr"><strong>Cazpyr</strong></a>
+      <a href="https://github.com/shinymonitor/no-heap-rsa-zig"><strong>Heapless RSA</strong></a>
       <br />
-      A minimalist, heap-less, and developer-focused terminal text editor written in under 1000 lines of pure C.
+      A performant single-file, heap-less implementation of RSA encryption and signatures in Zig with OAEP+ padding and PEM key storage.
     </td>
   </tr>
   <tr>
@@ -76,14 +76,14 @@ I design and build performant, reliable, and novel software. My focus is on crea
   </tr>
   <tr>
     <td align="center" width="150">
-      <a href="https://github.com/shinymonitor/no-heap-rsa-zig">
-        <img src="https://raw.githubusercontent.com/shinymonitor/no-heap-rsa-zig/main/assets/LOGO.png" width="100">
+      <a href="https://github.com/shinymonitor/cazpyr">
+        <img src="https://raw.githubusercontent.com/shinymonitor/cazpyr/main/assets/LOGO.gif" width="100">
       </a>
     </td>
     <td>
-      <a href="https://github.com/shinymonitor/no-heap-rsa-zig"><strong>Heapless RSA</strong></a>
+      <a href="https://github.com/shinymonitor/cazpyr"><strong>CAZPYR</strong></a>
       <br />
-      A performant single-file, heap-less implementation of RSA encryption and signatures in Zig with OAEP+ padding and PEM key storage.
+      A minimalist, heap-less, and developer-focused terminal text editor written in under 1000 lines of pure C.
     </td>
   </tr>
   <tr>
