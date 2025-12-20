@@ -4,7 +4,7 @@
 
 ### Low-level developer
 
-<a href="https://shinymonitor.github.io/"><img src="https://shinymonitor.github.io/FAVICON.ICO"></a>
+<a href="https://shinymonitor.github.io/"><img src="https://shinymonitor.github.io/static/FAVICON.ICO"></a>
 
 I design and build performant, reliable, and novel software. My focus is on creating tools and systems that operate efficiently in any environment, especially embedded. I believe in the power of simplicity and well-thought-out design and the practice of dogfooding to build robust software.
 
