@@ -3,7 +3,7 @@
 # Hi, I'm Arin
 <table><tr>
 <td><a href="https://shinymonitor.github.io/"><img src="https://shinymonitor.github.io/static/FAVICON.ICO"></a></td>
-<td><h3> Low-level developer </h3></td>
+<td><h3> Low level C developer </h3></td>
 </tr></table>
 
 [[**Gmail**](mailto:arinupadhyay.cs@gmail.com)]
