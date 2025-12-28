@@ -6,9 +6,9 @@
 <td><h3> Low level C developer </h3></td>
 </tr></table>
 
+[[**Blog**](https://shinymonitor.github.io/)]
 [[**Gmail**](mailto:arinupadhyay.cs@gmail.com)]
 [[**LinkedIn**](https://linkedin.com/in/arin-upadhyay-4b8551271)]
-[[**Blog**](https://shinymonitor.github.io/)]
 
 I design and build performant, reliable, and novel software. My focus is on creating tools and systems that operate efficiently in any environment, especially embedded. I believe in the power of simplicity and well-thought-out design and the practice of dogfooding to build robust software.
 
