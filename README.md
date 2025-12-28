@@ -1,10 +1,14 @@
 <div align="center">
 
 # Hi, I'm Arin
+<table><tr>
+<td><a href="https://shinymonitor.github.io/"><img src="https://shinymonitor.github.io/static/FAVICON.ICO"></a></td>
+<td><h3> Low-level developer </h3></td>
+</tr></table>
 
-### Low-level developer
-
-<a href="https://shinymonitor.github.io/"><img src="https://shinymonitor.github.io/static/FAVICON.ICO"></a>
+[[**Gmail**](mailto:arinupadhyay.cs@gmail.com)]
+[[**LinkedIn**](https://linkedin.com/in/arin-upadhyay-4b8551271)]
+[[**Blog**](https://shinymonitor.github.io/)]
 
 I design and build performant, reliable, and novel software. My focus is on creating tools and systems that operate efficiently in any environment, especially embedded. I believe in the power of simplicity and well-thought-out design and the practice of dogfooding to build robust software.
 
@@ -12,7 +16,7 @@ I design and build performant, reliable, and novel software. My focus is on crea
 
 ---
 
-### Skillset
+### Skills
 
 ![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
@@ -76,6 +80,30 @@ I design and build performant, reliable, and novel software. My focus is on crea
   </tr>
   <tr>
     <td align="center" width="150">
+      <a href="https://github.com/shinymonitor/construct.h">
+        <img src="https://raw.githubusercontent.com/shinymonitor/construct.h/main/assets/LOGO.png" width="100">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/shinymonitor/construct.h"><strong>construct.h</strong></a>
+      <br />
+      A easy-to-use single-header library for writing build recipes in C with incremental compilations, parallel builds, cross-platform API and other utilities.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://github.com/shinymonitor/picofb.h">
+        <img src="https://raw.githubusercontent.com/shinymonitor/picofb.h/main/assets/LOGO.png" width="100">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/shinymonitor/picofb.h"><strong>picofb.h</strong></a>
+      <br />
+      A single header library to display a framebuffer with multi input handling.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
       <a href="https://github.com/shinymonitor/cazpyr">
         <img src="https://raw.githubusercontent.com/shinymonitor/cazpyr/main/assets/LOGO.gif" width="100">
       </a>
@@ -101,9 +129,3 @@ I design and build performant, reliable, and novel software. My focus is on crea
 </table>
 
 ---
-
-### Reach me
-
-<a href="mailto:arinupadhyay.cs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://linkedin.com/in/arin-upadhyay-4b8551271"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://shinymonitor.github.io/"><img src="https://img.shields.io/badge/Blog-333333?style=for-the-badge&logo=blogger&logoColor=white"></a>
