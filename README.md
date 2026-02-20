@@ -104,18 +104,6 @@ I design and build performant, reliable, and novel software. My focus is on crea
   </tr>
   <tr>
     <td align="center" width="150">
-      <a href="https://github.com/shinymonitor/cazpyr">
-        <img src="https://raw.githubusercontent.com/shinymonitor/cazpyr/main/assets/LOGO.gif" width="100">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/shinymonitor/cazpyr"><strong>CAZPYR</strong></a>
-      <br />
-      A minimalist, heap-less, and developer-focused terminal text editor written in under 1000 lines of pure C.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
       <a href="https://github.com/shinymonitor/fast3sat">
         <img src="https://raw.githubusercontent.com/shinymonitor/fast3sat/main/assets/LOGO.png" width="100">
       </a>
