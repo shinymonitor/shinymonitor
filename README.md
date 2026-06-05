@@ -3,14 +3,10 @@
 # Hi, I'm Arin
 <table><tr>
 <td><a href="https://shinymonitor.github.io/"><img src="https://shinymonitor.github.io/static/FAVICON.ICO"></a></td>
-<td><h3> Low level C developer </h3></td>
+<td><h3> Low-level developer </h3></td>
 </tr></table>
 
-[[**Blog**](https://shinymonitor.github.io/)]
-[[**Gmail**](mailto:arinupadhyay.cs@gmail.com)]
-[[**LinkedIn**](https://linkedin.com/in/arin-upadhyay-4b8551271)]
-
-I design and build performant, reliable, and novel software. My focus is on creating tools and systems that operate efficiently in any environment, especially embedded. I believe in the power of simplicity and well-thought-out design and the practice of dogfooding to build robust software.
+I like writing minimalistic and novel programs.
 
 </div>
 
@@ -32,6 +28,42 @@ I design and build performant, reliable, and novel software. My focus is on crea
 <table>
   <tr>
     <td align="center" width="150">
+      <a href="https://github.com/shinymonitor/EFPIX">
+        <img src="https://raw.githubusercontent.com/shinymonitor/EFPIX/main/assets/LOGO.png" width="100">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/shinymonitor/EFPIX"><strong>EFPIX</strong></a>
+      <br />
+      A zero-trust, encrypted flood protocol for resilient and anonymous communication in hostile environments. Includes a <a href="https://github.com/shinymonitor/libefpix">full C implementation</a>.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://github.com/shinymonitor/sublanq">
+        <img src="https://raw.githubusercontent.com/shinymonitor/sublanq/main/assets/LOGO.png" width="100">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/shinymonitor/sublanq"><strong>SUBLANQ</strong></a>
+      <br />
+      An assembly-like language compiler for the Subleq architecture that produces highly optimized machine code.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://github.com/shinymonitor/flare">
+        <img src="https://raw.githubusercontent.com/shinymonitor/flare/main/assets/LOGO.png" width="100">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/shinymonitor/flare"><strong>FLARE</strong></a>
+      <br />
+      FLARE (Field Learnable ARbitrary Event) Prediction Engine is a self-supervised closed-loop event prediction algorithm that has automatic online adaptation.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
       <a href="https://github.com/shinymonitor/qmtik">
         <img src="https://raw.githubusercontent.com/shinymonitor/qmtik/main/assets/LOGO.png" width="100">
       </a>
@@ -44,14 +76,14 @@ I design and build performant, reliable, and novel software. My focus is on crea
   </tr>
   <tr>
     <td align="center" width="150">
-      <a href="https://github.com/shinymonitor/EFPIX">
-        <img src="https://raw.githubusercontent.com/shinymonitor/EFPIX/main/assets/LOGO.png" width="100">
+      <a href="https://github.com/shinymonitor/picofb.h">
+        <img src="https://raw.githubusercontent.com/shinymonitor/picofb.h/main/assets/LOGO.png" width="100">
       </a>
     </td>
     <td>
-      <a href="https://github.com/shinymonitor/EFPIX"><strong>EFPIX</strong></a>
+      <a href="https://github.com/shinymonitor/picofb.h"><strong>picofb.h</strong></a>
       <br />
-      A zero-trust, encrypted flood protocol for resilient and anonymous communication in hostile environments. Includes a <a href="https://github.com/shinymonitor/libefpix">full C implementation</a>.
+      A single header library to display a framebuffer with multi input handling.
     </td>
   </tr>
   <tr>
@@ -92,14 +124,14 @@ I design and build performant, reliable, and novel software. My focus is on crea
   </tr>
   <tr>
     <td align="center" width="150">
-      <a href="https://github.com/shinymonitor/picofb.h">
-        <img src="https://raw.githubusercontent.com/shinymonitor/picofb.h/main/assets/LOGO.png" width="100">
+      <a href="https://github.com/shinymonitor/cazpyr">
+        <img src="https://raw.githubusercontent.com/shinymonitor/cazpyr/main/assets/LOGO.gif" width="100">
       </a>
     </td>
     <td>
-      <a href="https://github.com/shinymonitor/picofb.h"><strong>picofb.h</strong></a>
+      <a href="https://github.com/shinymonitor/cazpyr"><strong>CAZPYR</strong></a>
       <br />
-      A single header library to display a framebuffer with multi input handling.
+      A minimalist, heap-less, and developer-focused terminal text editor written in under 1000 lines of pure C.
     </td>
   </tr>
   <tr>
